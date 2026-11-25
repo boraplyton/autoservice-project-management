@@ -1,0 +1,44 @@
+{
+  "count": {
+    "p50_weeks": 6,
+    "p80_weeks": 10,
+    "p90_weeks": 13,
+    "mean_weeks": 6.4437,
+    "cdf_at_p80": 0.81801,
+    "cdf_before_p80": 0.77023,
+    "p80_week_end": "2027-02-07"
+  },
+  "hours": {
+    "p50_weeks": 9,
+    "p80_weeks": 13,
+    "p90_weeks": 15,
+    "mean_weeks": 9.68411,
+    "cdf_at_p80": 0.82855,
+    "cdf_before_p80": 0.77736,
+    "p80_week_end": "2027-02-28"
+  },
+  "runs": 100000,
+  "seed": 4052026,
+  "history_weeks": 8,
+  "tasks": 12,
+  "forecast_start": "2026-11-30",
+  "expected_effort_hours": 32.333333333333336,
+  "sensitivity_active_weeks_only": {
+    "count": {
+      "p50_weeks": 2,
+      "p80_weeks": 4,
+      "p90_weeks": 4,
+      "mean_weeks": 2.40284,
+      "cdf_at_p80": 1.0,
+      "cdf_before_p80": 0.70539
+    },
+    "hours": {
+      "p50_weeks": 4,
+      "p80_weeks": 4,
+      "p90_weeks": 4,
+      "mean_weeks": 3.62579,
+      "cdf_at_p80": 0.96214,
+      "cdf_before_p80": 0.41102
+    }
+  }
+}

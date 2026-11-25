@@ -1,0 +1,108 @@
+{
+  "best_priority": "RANDOM-0006",
+  "best_order": [
+    "D01",
+    "D07",
+    "D10",
+    "D19",
+    "D09",
+    "D15",
+    "D06",
+    "D23",
+    "D04",
+    "D18",
+    "D14",
+    "D24",
+    "D03",
+    "D12",
+    "D21",
+    "D17",
+    "D08",
+    "D20",
+    "D02",
+    "D16",
+    "D05",
+    "D11",
+    "D13",
+    "D22"
+  ],
+  "makespan_hours": 317,
+  "working_days": 39.625,
+  "working_weeks": 7.925,
+  "finish": "2027-01-22 14:00:00",
+  "effort_hours": 568,
+  "functional_effort_hours": 368,
+  "resource_effort_hours": {
+    "DEV": 500,
+    "QA": 36,
+    "BA": 32
+  },
+  "critical_path_lower_bound_hours": 309,
+  "resource_lower_bounds_hours": {
+    "DEV": 250,
+    "QA": 36,
+    "BA": 32
+  },
+  "lower_bound_hours": 317,
+  "disjunctive_lower_bound_hours": 317,
+  "optimality_certificate": {
+    "pair": [
+      "D20",
+      "D21"
+    ],
+    "conflicting_resources": [
+      "QA"
+    ],
+    "alternatives": [
+      {
+        "order": [
+          "D20",
+          "D21"
+        ],
+        "bound_hours": 317
+      },
+      {
+        "order": [
+          "D21",
+          "D20"
+        ],
+        "bound_hours": 317
+      }
+    ],
+    "bound_hours": 317
+  },
+  "optimal": true,
+  "gap_to_lower_bound_percent": 0.0,
+  "utilization": {
+    "DEV": 0.7886435331230284,
+    "QA": 0.11356466876971609,
+    "BA": 0.10094637223974763
+  },
+  "random_orders": 5000,
+  "seed": 5052026,
+  "random_best_hours": 317,
+  "random_worst_hours": 364,
+  "stages": [
+    {
+      "name": "Подготовка",
+      "start_hour": 0,
+      "finish_hour": 64,
+      "start": "2026-11-30 09:00:00",
+      "finish": "2026-12-09 17:00:00"
+    },
+    {
+      "name": "Функции MVP",
+      "start_hour": 64,
+      "finish_hour": 261,
+      "start": "2026-12-10 09:00:00",
+      "finish": "2027-01-13 14:00:00"
+    },
+    {
+      "name": "Проверка и выпуск",
+      "start_hour": 261,
+      "finish_hour": 317,
+      "start": "2027-01-13 14:00:00",
+      "finish": "2027-01-22 14:00:00"
+    }
+  ]
+}
