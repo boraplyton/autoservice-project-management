@@ -1,0 +1,50 @@
+﻿ID,Фаза,Работа,Роде,Солопанов,Пухов,Issue
+R1-01,1,Анализ задания,R,R,A/R,
+R1-02,1,Формирование концепций,A/R,C,C,
+R1-03,1,Формирование критериев,C,A/R,C,
+R1-04,1,Экспертные оценки,R,R,A/R,
+R1-05,1,Формирование нечётких оценок,A/R,C,I,
+R1-06,1,Расчёт TOPSIS,A/R,C,I,
+R1-07,1,Попарные сравнения МАИ,R,R,R/A,
+R1-08,1,Расчёт МАИ,C,A/R,I,
+R1-09,1,Проверка согласованности,I,A/R,C,
+R1-10,1,Анализ результатов,C,C,A/R,
+R1-11,1,Подготовка отчёта,C,C,A/R,
+P2-01,2,Согласование декомпозиции Фазы 3,R,R,R/A,
+P2-02,2,Индивидуальная оценка трудоёмкости,R,R,R/A,
+P2-03,2,Согласование итоговых трудоёмкостей,R,R,R/A,
+P2-04,2,Индивидуальная оценка предпочтений,R,R,R/A,
+P2-05,2,Постановка модели MILP,C,R/A,C,
+P2-06,2,Реализация/проверка оптимизации,R/A,C,C,
+P2-07,2,Анализ решения и обновление RACI/Issues,R,R,R/A,
+P2-08,2,Оформление отчёта,C,C,R/A,
+P3-01,3,Ф3 T01 Подготовка каталога Use Cases,R/A,C,C,https://github.com/boraplyton/autoservice-project-management/issues/30
+P3-02,3,Ф3 T02 Описание основных сценариев,R/A,C,C,https://github.com/boraplyton/autoservice-project-management/issues/31
+P3-03,3,Ф3 T03 Альтернативные и негативные сценарии,C,C,R/A,https://github.com/boraplyton/autoservice-project-management/issues/32
+P3-04,3,Ф3 T04 Подсчёт потоков данных COSMIC,C,R/A,C,https://github.com/boraplyton/autoservice-project-management/issues/33
+P3-05,3,Ф3 T05 Подсчёт UCP и поправок TCF/ECF,C,R/A,C,https://github.com/boraplyton/autoservice-project-management/issues/34
+P3-06,3,Ф3 T06 Пересчёт UCP в трудозатраты,C,R/A,C,https://github.com/boraplyton/autoservice-project-management/issues/35
+P3-07,3,Ф3 T07 Сбор индивидуальных оценок по Use Cases,R/A,C,C,https://github.com/boraplyton/autoservice-project-management/issues/36
+P3-08,3,Ф3 T08 Согласование экспертных оценок,C,C,R/A,https://github.com/boraplyton/autoservice-project-management/issues/37
+P3-09,3,Ф3 T09 Сопоставление результатов оценки,C,R/A,C,https://github.com/boraplyton/autoservice-project-management/issues/38
+P3-10,3,"Ф3 T10 Состав команды, сроки, сокращение объёма",C,C,R/A,https://github.com/boraplyton/autoservice-project-management/issues/39
+P3-11,3,Ф3 T11 Проверка и оформление отчёта Фазы 3,C,C,R/A,https://github.com/boraplyton/autoservice-project-management/issues/40
+P4-01,4,Декомпозиция учебных работ фазы 5 и трёхточечные оценки,R/A,C,C,https://github.com/boraplyton/autoservice-project-management/issues/42
+P4-02,4,Сбор и нормализация исторической статистики,C,C,R/A,https://github.com/boraplyton/autoservice-project-management/issues/43
+P4-03,4,Модель Монте-Карло по количеству задач,C,R/A,C,https://github.com/boraplyton/autoservice-project-management/issues/44
+P4-04,4,Модель Монте-Карло по человеко-часам,C,R/A,C,https://github.com/boraplyton/autoservice-project-management/issues/45
+P4-05,4,Сравнение P80 и анализ чувствительности,R/A,C,C,https://github.com/boraplyton/autoservice-project-management/issues/46
+P4-06,4,Проверка расчётов прогнозирования,C,R/A,C,https://github.com/boraplyton/autoservice-project-management/issues/47
+P4-07,4,Отчёт фазы 4 и актуализация общего учёта,C,C,R/A,https://github.com/boraplyton/autoservice-project-management/issues/48
+P5-01,5,Проверка границ MVP и оценок фазы 3,R/A,C,C,https://github.com/boraplyton/autoservice-project-management/issues/49
+P5-02,5,Декомпозиция реализации на 24 задачи,R/A,C,C,https://github.com/boraplyton/autoservice-project-management/issues/50
+P5-03,5,Определение специальностей и мощностей,C,C,R/A,https://github.com/boraplyton/autoservice-project-management/issues/51
+P5-04,5,Оценка длительностей и ресурсных требований,C,C,R/A,https://github.com/boraplyton/autoservice-project-management/issues/52
+P5-05,5,Задание зависимостей,C,R/A,C,https://github.com/boraplyton/autoservice-project-management/issues/53
+P5-06,5,Подготовка и проверка входной RCPSP-модели,C,R/A,C,https://github.com/boraplyton/autoservice-project-management/issues/54
+P5-07,5,Реализация и запуск эвристик,C,R/A,C,https://github.com/boraplyton/autoservice-project-management/issues/55
+P5-08,5,Перебор случайных приоритетов,R/A,C,C,https://github.com/boraplyton/autoservice-project-management/issues/56
+P5-09,5,Проверка допустимости и выбор графика,C,R/A,C,https://github.com/boraplyton/autoservice-project-management/issues/57
+P5-10,5,Перевод в календарь и выделение этапов,C,C,R/A,https://github.com/boraplyton/autoservice-project-management/issues/58
+P5-11,5,Сравнение решений и доказательство оптимальности,C,C,R/A,https://github.com/boraplyton/autoservice-project-management/issues/59
+P5-12,5,"Обсуждение, отчёт и актуализация RACI/Issues",C,C,R/A,https://github.com/boraplyton/autoservice-project-management/issues/60

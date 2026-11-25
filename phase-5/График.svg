@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1550" height="885" viewBox="0 0 1550 885">
+<rect width="1550" height="885" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#18273c">
+<text x="24" y="32" font-size="22" font-weight="bold">ИС автосервиса: ресурсный план реализации</text>
+<text x="24" y="58" font-size="14">Рабочая ось: 8 ч/день, 40 ч/неделю. DEV × 2, QA × 1, BA × 1. Выходные исключены, праздники не учитываются.</text>
+<line x1="490.0" y1="90" x2="490.0" y2="840" stroke="#d9e1eb"/>
+<text x="490.0" y="83" font-size="12">30.11</text>
+<line x1="617.5" y1="90" x2="617.5" y2="840" stroke="#d9e1eb"/>
+<text x="617.5" y="83" font-size="12">07.12</text>
+<line x1="745.0" y1="90" x2="745.0" y2="840" stroke="#d9e1eb"/>
+<text x="745.0" y="83" font-size="12">14.12</text>
+<line x1="872.5" y1="90" x2="872.5" y2="840" stroke="#d9e1eb"/>
+<text x="872.5" y="83" font-size="12">21.12</text>
+<line x1="1000.0" y1="90" x2="1000.0" y2="840" stroke="#d9e1eb"/>
+<text x="1000.0" y="83" font-size="12">28.12</text>
+<line x1="1127.5" y1="90" x2="1127.5" y2="840" stroke="#d9e1eb"/>
+<text x="1127.5" y="83" font-size="12">04.01</text>
+<line x1="1255.0" y1="90" x2="1255.0" y2="840" stroke="#d9e1eb"/>
+<text x="1255.0" y="83" font-size="12">11.01</text>
+<line x1="1382.5" y1="90" x2="1382.5" y2="840" stroke="#d9e1eb"/>
+<text x="1382.5" y="83" font-size="12">18.01</text>
+<line x1="1510.0" y1="90" x2="1510.0" y2="840" stroke="#d9e1eb"/>
+<text x="1510.0" y="83" font-size="12">25.01</text>
+<rect x="15" y="97" width="1520" height="30" fill="#f4f7fb"/>
+<text x="24" y="117" font-size="13">D01  Требования и критерии приёмки</text>
+<rect x="490.0" y="102" width="51.0" height="21" rx="3" fill="#3766a3"><title>Требования и критерии приёмки: 0–16 рабочих ч</title></rect>
+<text x="24" y="147" font-size="13">D02  Прототип интерфейса и согласование UX</text>
+<rect x="541.0" y="132" width="25.5" height="21" rx="3" fill="#3766a3"><title>Прототип интерфейса и согласование UX: 16–24 рабочих ч</title></rect>
+<rect x="15" y="157" width="1520" height="30" fill="#f4f7fb"/>
+<text x="24" y="177" font-size="13">D03  Архитектура и контракты API</text>
+<rect x="541.0" y="162" width="51.0" height="21" rx="3" fill="#3766a3"><title>Архитектура и контракты API: 16–32 рабочих ч</title></rect>
+<text x="24" y="207" font-size="13">D04  Репозиторий, окружение и CI</text>
+<rect x="592.0" y="192" width="25.5" height="21" rx="3" fill="#3766a3"><title>Репозиторий, окружение и CI: 32–40 рабочих ч</title></rect>
+<rect x="15" y="217" width="1520" height="30" fill="#f4f7fb"/>
+<text x="24" y="237" font-size="13">D05  Схема БД и миграции</text>
+<rect x="592.0" y="222" width="51.0" height="21" rx="3" fill="#3766a3"><title>Схема БД и миграции: 32–48 рабочих ч</title></rect>
+<text x="24" y="267" font-size="13">D06  Авторизация и роли пользователей</text>
+<rect x="643.0" y="252" width="51.0" height="21" rx="3" fill="#3766a3"><title>Авторизация и роли пользователей: 48–64 рабочих ч</title></rect>
+<rect x="15" y="277" width="1520" height="30" fill="#f4f7fb"/>
+<text x="24" y="297" font-size="13">D07  Регистрация клиента</text>
+<rect x="694.0" y="282" width="89.2" height="21" rx="3" fill="#168374"><title>Регистрация клиента: 64–92 рабочих ч</title></rect>
+<text x="24" y="327" font-size="13">D08  Регистрация автомобиля</text>
+<rect x="783.2" y="312" width="76.5" height="21" rx="3" fill="#168374"><title>Регистрация автомобиля: 92–116 рабочих ч</title></rect>
+<rect x="15" y="337" width="1520" height="30" fill="#f4f7fb"/>
+<text x="24" y="357" font-size="13">D09  Просмотр услуг и цен</text>
+<rect x="694.0" y="342" width="57.4" height="21" rx="3" fill="#168374"><title>Просмотр услуг и цен: 64–82 рабочих ч</title></rect>
+<text x="24" y="387" font-size="13">D10  Запись на обслуживание</text>
+<rect x="866.1" y="372" width="133.9" height="21" rx="3" fill="#168374"><title>Запись на обслуживание: 118–160 рабочих ч</title></rect>
+<rect x="15" y="397" width="1520" height="30" fill="#f4f7fb"/>
+<text x="24" y="417" font-size="13">D11  Управление расписанием</text>
+<rect x="751.4" y="402" width="114.8" height="21" rx="3" fill="#168374"><title>Управление расписанием: 82–118 рабочих ч</title></rect>
+<text x="24" y="447" font-size="13">D12  Создание заказа-наряда</text>
+<rect x="859.8" y="432" width="127.5" height="21" rx="3" fill="#168374"><title>Создание заказа-наряда: 116–156 рабочих ч</title></rect>
+<rect x="15" y="457" width="1520" height="30" fill="#f4f7fb"/>
+<text x="24" y="477" font-size="13">D13  Назначение механика</text>
+<rect x="1000.0" y="462" width="86.1" height="21" rx="3" fill="#168374"><title>Назначение механика: 160–187 рабочих ч</title></rect>
+<text x="24" y="507" font-size="13">D14  Изменение статуса ремонта</text>
+<rect x="1086.1" y="492" width="86.1" height="21" rx="3" fill="#168374"><title>Изменение статуса ремонта: 187–214 рабочих ч</title></rect>
+<rect x="15" y="517" width="1520" height="30" fill="#f4f7fb"/>
+<text x="24" y="537" font-size="13">D15  Учёт услуг и запчастей</text>
+<rect x="987.2" y="522" width="146.6" height="21" rx="3" fill="#168374"><title>Учёт услуг и запчастей: 156–202 рабочих ч</title></rect>
+<text x="24" y="567" font-size="13">D16  Расчёт итоговой стоимости</text>
+<rect x="1133.9" y="552" width="92.4" height="21" rx="3" fill="#168374"><title>Расчёт итоговой стоимости: 202–231 рабочих ч</title></rect>
+<rect x="15" y="577" width="1520" height="30" fill="#f4f7fb"/>
+<text x="24" y="597" font-size="13">D17  Просмотр статуса заказа</text>
+<rect x="1172.1" y="582" width="66.9" height="21" rx="3" fill="#168374"><title>Просмотр статуса заказа: 214–235 рабочих ч</title></rect>
+<text x="24" y="627" font-size="13">D18  Закрытие заказа и выдача</text>
+<rect x="1226.3" y="612" width="95.6" height="21" rx="3" fill="#168374"><title>Закрытие заказа и выдача: 231–261 рабочих ч</title></rect>
+<rect x="15" y="637" width="1520" height="30" fill="#f4f7fb"/>
+<text x="24" y="657" font-size="13">D19  Интеграция пользовательских потоков</text>
+<rect x="1321.9" y="642" width="38.2" height="21" rx="3" fill="#966431"><title>Интеграция пользовательских потоков: 261–273 рабочих ч</title></rect>
+<text x="24" y="687" font-size="13">D20  Системное и регрессионное тестирование</text>
+<rect x="1385.7" y="672" width="51.0" height="21" rx="3" fill="#966431"><title>Системное и регрессионное тестирование: 281–297 рабочих ч</title></rect>
+<rect x="15" y="697" width="1520" height="30" fill="#f4f7fb"/>
+<text x="24" y="717" font-size="13">D21  Проверка прав, безопасности и восстановления</text>
+<rect x="1360.2" y="702" width="25.5" height="21" rx="3" fill="#966431"><title>Проверка прав, безопасности и восстановления: 273–281 рабочих ч</title></rect>
+<text x="24" y="747" font-size="13">D22  Исправления и стабилизация</text>
+<rect x="1436.7" y="732" width="25.5" height="21" rx="3" fill="#966431"><title>Исправления и стабилизация: 297–305 рабочих ч</title></rect>
+<rect x="15" y="757" width="1520" height="30" fill="#f4f7fb"/>
+<text x="24" y="777" font-size="13">D23  Документация и приёмка MVP</text>
+<rect x="1462.2" y="762" width="25.5" height="21" rx="3" fill="#966431"><title>Документация и приёмка MVP: 305–313 рабочих ч</title></rect>
+<text x="24" y="807" font-size="13">D24  Развёртывание и проверка выпуска</text>
+<rect x="1487.7" y="792" width="12.8" height="21" rx="3" fill="#966431"><title>Развёртывание и проверка выпуска: 313–317 рабочих ч</title></rect>
+<text x="24" y="867" font-size="13">Старт: 2026-11-30. Завершение: 22.01.2027 14:00. Цвета: подготовка / функции MVP / проверка и выпуск.</text>
+</g></svg>
